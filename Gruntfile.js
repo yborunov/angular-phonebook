@@ -23,8 +23,8 @@ module.exports = function(grunt) {
 			},
 
 			build: {
-				src: 'app.js',
-				dest: 'app.min.js'
+				src: 'scripts/app.js',
+				dest: 'scripts/app.min.js'
 			}
     	}
 	});
